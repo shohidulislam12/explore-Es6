@@ -1,0 +1,10 @@
+const number=[12,34,54,54];
+// const result=number.map(x=>x*2);
+// console.log(result);
+// const result=number.map(x=>x+4);
+// console.log(result);
+const result=number.map(x=>x/2);
+console.log(result);
+const friends=['mahim','asif','fahim','roni'];
+const lengtharray=friends.map(x=>x[0]);
+console.log(lengtharray);
